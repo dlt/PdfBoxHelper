@@ -42,18 +42,20 @@ object PdfHelper {
 
   def getBookmarks(document: PDDocument): List[(String, Int)] = {
     val catalog = document.getDocumentCatalog
-    val visited = new mutable.HashSet[PDOutlineItem]()
     var bookmarks: List[(String, Int)] = List()
 
-    val queue = new mutable.Queue[PDOutlineItem]()
-    queue.enqueue(catalog.getDocumentOutline.getFirstChild)
+    if (catalog.getDocumentOutline != null) {
+      val visited = new mutable.HashSet[PDOutlineItem]()
+      val queue = new mutable.Queue[PDOutlineItem]()
+      queue.enqueue(catalog.getDocumentOutline.getFirstChild)
 
-    while (queue.nonEmpty) {
-      val item = queue.dequeue()
-      if (!visited.contains(item)) {
-        bookmarks = bookmarks :+ (item.getTitle -> getPageNumber(catalog, item))
-        addAllLeavesToQueue(queue, item)
-        visited.add(item)
+      while (queue.nonEmpty) {
+        val item = queue.dequeue()
+        if (!visited.contains(item)) {
+          bookmarks = bookmarks :+ (item.getTitle -> getPageNumber(catalog, item))
+          addAllLeavesToQueue(queue, item)
+          visited.add(item)
+        }
       }
     }
     bookmarks

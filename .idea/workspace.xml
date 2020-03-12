@@ -7,7 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bfba519-96b4-476f-8bdb-15c91b9509a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PdfBoxHelper_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/PdfBoxHelper_jar/PdfBoxHelper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/PdfBoxHelper_jar/PdfBoxHelper.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/PdfHelper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/PdfHelper.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/PdfHelper$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/PdfHelper$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/PdfHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/PdfHelper.class" afterDir="false" />
@@ -69,7 +72,7 @@
     <configuration name="PdfHelper" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="PdfHelper" />
       <module name="PdfBoxHelper" />
-      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/Dostoievski-idiot-2.pdf" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/RubymineProjects/balzac/tmp/storage/6o/3k/6o3k7k1dkwnbi1z9encrd9xamu83.pdf" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,7 +124,7 @@
       <workItem from="1583510378238" duration="685000" />
       <workItem from="1583511096535" duration="125000" />
       <workItem from="1583511252129" duration="6047000" />
-      <workItem from="1583997590667" duration="13920000" />
+      <workItem from="1583997590667" duration="16383000" />
     </task>
     <servers />
   </component>
@@ -129,10 +132,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1378" y="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584012886175">
+    <state x="1378" y="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584026165972">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state x="1378" y="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584012886175" />
+    <state x="1378" y="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584026165972" />
     <state x="1580" y="998" width="669" height="196" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1583511164699">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
@@ -141,6 +144,10 @@
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
     <state x="1653" y="733" width="524" height="718" key="#com.intellij.ide.macro.MacrosDialog/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584012182528" />
+    <state x="1706" y="902" width="650" height="505" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584016864983">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="1706" y="902" width="650" height="505" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584016864983" />
     <state x="1729" y="980" width="499" height="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583511146933">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
@@ -149,54 +156,54 @@
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
     <state x="1818" y="712" width="1044" height="830" key="#xdebugger.XInspectDialog/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1583918008943" />
-    <state x="1237" y="220" width="1760" height="1084" key="#xdebugger.evaluate" timestamp="1584001181089">
+    <state x="1237" y="220" width="1760" height="1084" key="#xdebugger.evaluate" timestamp="1584026200732">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state x="1237" y="220" width="1760" height="1084" key="#xdebugger.evaluate/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584001181089" />
+    <state x="1237" y="220" width="1760" height="1084" key="#xdebugger.evaluate/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584026200732" />
     <state x="1653" y="796" width="524" height="593" key="FileChooserDialogImpl" timestamp="1584005547233">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
     <state x="1653" y="796" width="524" height="593" key="FileChooserDialogImpl/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584005547233" />
-    <state width="3784" height="621" key="GridCell.Tab.0.bottom" timestamp="1584015220531">
+    <state width="3784" height="621" key="GridCell.Tab.0.bottom" timestamp="1584026574418">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="621" key="GridCell.Tab.0.bottom/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584015220531" />
-    <state width="3784" height="621" key="GridCell.Tab.0.center" timestamp="1584015220531">
+    <state width="3784" height="621" key="GridCell.Tab.0.bottom/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584026574418" />
+    <state width="3784" height="621" key="GridCell.Tab.0.center" timestamp="1584026574417">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="621" key="GridCell.Tab.0.center/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584015220531" />
-    <state width="3784" height="621" key="GridCell.Tab.0.left" timestamp="1584015220531">
+    <state width="3784" height="621" key="GridCell.Tab.0.center/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584026574417" />
+    <state width="3784" height="621" key="GridCell.Tab.0.left" timestamp="1584026574417">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="621" key="GridCell.Tab.0.left/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584015220531" />
-    <state width="3784" height="621" key="GridCell.Tab.0.right" timestamp="1584015220531">
+    <state width="3784" height="621" key="GridCell.Tab.0.left/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584026574417" />
+    <state width="3784" height="621" key="GridCell.Tab.0.right" timestamp="1584026574418">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="621" key="GridCell.Tab.0.right/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584015220531" />
-    <state width="3784" height="761" key="GridCell.Tab.1.bottom" timestamp="1584003652458">
+    <state width="3784" height="621" key="GridCell.Tab.0.right/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584026574418" />
+    <state width="3784" height="761" key="GridCell.Tab.1.bottom" timestamp="1584026333112">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="761" key="GridCell.Tab.1.bottom/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584003652458" />
-    <state width="3784" height="761" key="GridCell.Tab.1.center" timestamp="1584003652458">
+    <state width="3784" height="761" key="GridCell.Tab.1.bottom/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584026333112" />
+    <state width="3784" height="761" key="GridCell.Tab.1.center" timestamp="1584026333112">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="761" key="GridCell.Tab.1.center/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584003652458" />
-    <state width="3784" height="761" key="GridCell.Tab.1.left" timestamp="1584003652458">
+    <state width="3784" height="761" key="GridCell.Tab.1.center/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584026333112" />
+    <state width="3784" height="761" key="GridCell.Tab.1.left" timestamp="1584026333112">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="761" key="GridCell.Tab.1.left/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584003652458" />
-    <state width="3784" height="761" key="GridCell.Tab.1.right" timestamp="1584003652458">
+    <state width="3784" height="761" key="GridCell.Tab.1.left/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584026333112" />
+    <state width="3784" height="761" key="GridCell.Tab.1.right" timestamp="1584026333112">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="761" key="GridCell.Tab.1.right/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584003652458" />
+    <state width="3784" height="761" key="GridCell.Tab.1.right/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584026333112" />
     <state x="1623" y="933" width="583" height="319" key="NewModule_or_Project.wizard" timestamp="1583511302356">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
     <state x="1623" y="933" width="583" height="319" key="NewModule_or_Project.wizard/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1583511302356" />
-    <state x="1285" y="641" width="1511" height="1029" key="SettingsEditor" timestamp="1583511211192">
+    <state x="1284" y="641" width="1511" height="1029" key="SettingsEditor" timestamp="1584016874604">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state x="1285" y="641" width="1511" height="1029" key="SettingsEditor/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1583511211192" />
+    <state x="1284" y="641" width="1511" height="1029" key="SettingsEditor/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584016874604" />
     <state width="1920" height="1066" key="XDebugger.FullValuePopup" timestamp="1584000411419">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
@@ -215,14 +222,6 @@
     <state x="1082" y="621" width="1665" height="944" key="new project wizard/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1583494291504" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="scala-line">
-          <url>file://$PROJECT_DIR$/build.sbt</url>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="current.getTitle" language="Scala" />
