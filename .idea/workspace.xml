@@ -7,79 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bfba519-96b4-476f-8bdb-15c91b9509a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_8_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_json4s_json4s_ast_2_13_3_7_0_M2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_json4s_json4s_core_2_13_3_7_0_M2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_json4s_json4s_native_2_13_3_7_0_M2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_json4s_json4s_scalap_2_13_3_7_0_M2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/PdfBoxHelper_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/PdfBoxHelper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/PdfBoxHelper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/pdfboxhelper.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5ab1c1eb67c7d2c012c0$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5ab1c1eb67c7d2c012c0.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5ab1c1eb67c7d2c012c0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b86615a3d5fb5e7b657$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b86615a3d5fb5e7b657.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b86615a3d5fb5e7b657.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$acf698ec29a1579abc26$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$acf698ec29a1579abc26.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$acf698ec29a1579abc26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d7e858b860d6c8111e93$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d7e858b860d6c8111e93.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d7e858b860d6c8111e93.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e20959947b821dd112d6$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e20959947b821dd112d6.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e20959947b821dd112d6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/PdfHelper.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/PdfHelper.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/PdfHelper$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/PdfHelper$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/pdfboxhelper_2.13-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/pdfboxhelper_2.13-0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/PdfHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/PdfHelper.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +69,7 @@
     <configuration name="PdfHelper" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="PdfHelper" />
       <module name="PdfBoxHelper" />
-      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/balzac.pdf" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/Dostoievski-idiot-2.pdf" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -190,7 +121,7 @@
       <workItem from="1583510378238" duration="685000" />
       <workItem from="1583511096535" duration="125000" />
       <workItem from="1583511252129" duration="6047000" />
-      <workItem from="1583997590667" duration="8522000" />
+      <workItem from="1583997590667" duration="13920000" />
     </task>
     <servers />
   </component>
@@ -198,14 +129,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1378" y="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584004195246">
+    <state x="1378" y="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584012886175">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state x="1378" y="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584004195246" />
+    <state x="1378" y="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584012886175" />
     <state x="1580" y="998" width="669" height="196" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1583511164699">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
     <state x="1580" y="998" width="669" height="196" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1583511164699" />
+    <state x="1653" y="733" width="524" height="718" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584012182528">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="1653" y="733" width="524" height="718" key="#com.intellij.ide.macro.MacrosDialog/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584012182528" />
     <state x="1729" y="980" width="499" height="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583511146933">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
@@ -222,22 +157,22 @@
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
     <state x="1653" y="796" width="524" height="593" key="FileChooserDialogImpl/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584005547233" />
-    <state width="3784" height="621" key="GridCell.Tab.0.bottom" timestamp="1584007133566">
+    <state width="3784" height="621" key="GridCell.Tab.0.bottom" timestamp="1584015220531">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="621" key="GridCell.Tab.0.bottom/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584007133566" />
-    <state width="3784" height="621" key="GridCell.Tab.0.center" timestamp="1584007133566">
+    <state width="3784" height="621" key="GridCell.Tab.0.bottom/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584015220531" />
+    <state width="3784" height="621" key="GridCell.Tab.0.center" timestamp="1584015220531">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="621" key="GridCell.Tab.0.center/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584007133566" />
-    <state width="3784" height="621" key="GridCell.Tab.0.left" timestamp="1584007133566">
+    <state width="3784" height="621" key="GridCell.Tab.0.center/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584015220531" />
+    <state width="3784" height="621" key="GridCell.Tab.0.left" timestamp="1584015220531">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="621" key="GridCell.Tab.0.left/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584007133566" />
-    <state width="3784" height="621" key="GridCell.Tab.0.right" timestamp="1584007133566">
+    <state width="3784" height="621" key="GridCell.Tab.0.left/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584015220531" />
+    <state width="3784" height="621" key="GridCell.Tab.0.right" timestamp="1584015220531">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
-    <state width="3784" height="621" key="GridCell.Tab.0.right/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584007133566" />
+    <state width="3784" height="621" key="GridCell.Tab.0.right/0.27.3840.2133/1102.2160.1920.1080@0.27.3840.2133" timestamp="1584015220531" />
     <state width="3784" height="761" key="GridCell.Tab.1.bottom" timestamp="1584003652458">
       <screen x="0" y="27" width="3840" height="2133" />
     </state>
