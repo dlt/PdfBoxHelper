@@ -11,7 +11,7 @@ import org.json4s.JsonDSL._
 import org.json4s.native.Json
 
 object PdfHelper {
-  def getPageNumber(item: PDOutlineItem, catalog: PDDocumentCatalog): Int = {
+  def getPageNumber(catalog: PDDocumentCatalog, item: PDOutlineItem): Int = {
     var pd: PDPageDestination = null;
     item.getDestination match {
       case destination: PDNamedDestination =>
@@ -48,11 +48,11 @@ object PdfHelper {
     var bookmarks: List[(String, Int)] = List()
 
     while (queue.nonEmpty) {
-      val current = queue.dequeue()
-      if (!visited.contains(current)) {
-        bookmarks = bookmarks :+ (current.getTitle -> getPageNumber(current, catalog))
-        addAllLeavesToQueue(queue, current)
-        visited.add(current)
+      val item = queue.dequeue()
+      if (!visited.contains(item)) {
+        bookmarks = bookmarks :+ (item.getTitle -> getPageNumber(catalog, item))
+        addAllLeavesToQueue(queue, item)
+        visited.add(item)
       }
     }
     bookmarks
