@@ -42,10 +42,11 @@ object PdfHelper {
 
   def getBookmarks(document: PDDocument): List[(String, Int)] = {
     val catalog = document.getDocumentCatalog
-    val queue = new mutable.Queue[PDOutlineItem]()
     val visited = new mutable.HashSet[PDOutlineItem]()
-    queue.enqueue(catalog.getDocumentOutline.getFirstChild)
     var bookmarks: List[(String, Int)] = List()
+
+    val queue = new mutable.Queue[PDOutlineItem]()
+    queue.enqueue(catalog.getDocumentOutline.getFirstChild)
 
     while (queue.nonEmpty) {
       val item = queue.dequeue()
