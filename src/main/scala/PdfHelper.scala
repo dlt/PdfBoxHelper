@@ -28,7 +28,7 @@ object PdfHelper {
         case _ =>
       }
     }
-    pd.retrievePageNumber() + 1
+    pd.retrievePageNumber + 1
   }
 
   def addAllLeavesToQueue(queue: mutable.Queue[PDOutlineItem], item: PDOutlineItem) {
@@ -50,7 +50,7 @@ object PdfHelper {
       queue.enqueue(catalog.getDocumentOutline.getFirstChild)
 
       while (queue.nonEmpty) {
-        val item = queue.dequeue()
+        val item = queue.dequeue
         if (!visited.contains(item)) {
           bookmarks = bookmarks :+ (item.getTitle -> getPageNumber(catalog, item))
           addAllLeavesToQueue(queue, item)
