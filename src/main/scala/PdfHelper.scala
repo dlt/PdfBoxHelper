@@ -23,6 +23,8 @@ object PdfHelper {
           gta.getDestination match {
             case destination: PDPageDestination =>
               pd = destination
+            case destination: PDNamedDestination =>
+              pd = catalog.findNamedDestinationPage(destination)
             case _ =>
           }
         case _ =>
@@ -47,7 +49,11 @@ object PdfHelper {
     if (catalog.getDocumentOutline != null) {
       val visited = new mutable.HashSet[PDOutlineItem]()
       val queue = new mutable.Queue[PDOutlineItem]()
-      queue.enqueue(catalog.getDocumentOutline.getFirstChild)
+      val firstOutlineItem = catalog.getDocumentOutline.getFirstChild
+
+      if (firstOutlineItem != null) {
+        queue.enqueue(firstOutlineItem)
+      }
 
       while (queue.nonEmpty) {
         val item = queue.dequeue
